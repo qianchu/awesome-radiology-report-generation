@@ -37,6 +37,8 @@ Markdown format:
 * [On the automatic generation of medical imaging reports](https://arxiv.org/pdf/1711.08195) - Jing B et al, `ACL 2018`.
 * [Textray: Mining clinical reports to gain a broad understanding of chest x-rays](https://arxiv.org/pdf/1806.02121) - Laserson J et al, `MICCAI 2018`.
 * [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
+* [TieNet: Text-Image Embedding Network for Common Thorax Disease
+Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.pdf) - Wang et al., CVPR 2018
 
 ### 2019
 * [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://www.aclweb.org/anthology/P19-1657.pdf) - Jing B et al, `ACL 2019`.
@@ -53,10 +55,13 @@ Markdown format:
 ### 2020
 * [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
 * [When Radiology Report Generation Meets Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/6989/6843) - Zhang Y et al, `AAAI 2020`.
+* [Learning to Generate Clinically Coherent Chest X-Ray Reports](https://aclanthology.org/2020.findings-emnlp.110.pdf) - Lovelace et al., `Findings of EMNLP 2020`
+* [Towards Automated Diagnosis with Attentive Multi-modal Learning Using Electronic Health Records and Chest X-Rays](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_11) - Sonsbeek et al., `CLIP 2020`
 
 ### 2021
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2021`.
 * [A Self-Boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) - Wang Z et al, `CVPR 2021`.
+* [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation](https://arxiv.org/pdf/2010.10042.pdf) - Miura et al., `NAACL 2021`
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
