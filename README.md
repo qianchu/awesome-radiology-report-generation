@@ -62,8 +62,9 @@ Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.p
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2021`.
 * [A Self-Boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) - Wang Z et al, `CVPR 2021`.
 * [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation](https://arxiv.org/pdf/2010.10042.pdf) - Miura et al., `NAACL 2021`
-* [BDKG at MEDIQA 2021: System Report for the Radiology Report
-Summarization Task](https://aclanthology.org/2021.bionlp-1.11.pdf) - Dai et al., `BioNLP 2021`
+* [BDKG at MEDIQA 2021: System Report for the Radiology Report Summarization Task](https://aclanthology.org/2021.bionlp-1.11.pdf) - Dai et al., `BioNLP 2021`
+* [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/pdf/2105.11333.pdf) - Moon et al., `CVPR 2021`
+
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
