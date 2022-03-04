@@ -64,6 +64,8 @@ Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.p
 * [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation](https://arxiv.org/pdf/2010.10042.pdf) - Miura et al., `NAACL 2021`
 * [BDKG at MEDIQA 2021: System Report for the Radiology Report Summarization Task](https://aclanthology.org/2021.bionlp-1.11.pdf) - Dai et al., `BioNLP 2021`
 * [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/pdf/2105.11333.pdf) - Moon et al., `CVPR 2021`
+* [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://aclanthology.org/2021.acl-long.387.pdf) - Yang et al., `ACL 2021`
+
 
 
 ## Dataset
