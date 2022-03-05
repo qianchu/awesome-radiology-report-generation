@@ -37,8 +37,9 @@ Markdown format:
 * [On the automatic generation of medical imaging reports](https://arxiv.org/pdf/1711.08195) - Jing B et al, `ACL 2018`.
 * [Textray: Mining clinical reports to gain a broad understanding of chest x-rays](https://arxiv.org/pdf/1806.02121) - Laserson J et al, `MICCAI 2018`.
 * [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
-* [TieNet: Text-Image Embedding Network for Common Thorax Disease
-Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.pdf) - Wang et al., CVPR 2018
+* [TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.pdf) - Wang et al., `CVPR 2018`
+* [Learning to Summarize Radiology Findings](https://aclanthology.org/W18-5623.pdf) - Zhaneg et al., `(LOUHI 2018`
+
 
 ### 2019
 * [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://www.aclweb.org/anthology/P19-1657.pdf) - Jing B et al, `ACL 2019`.
@@ -51,6 +52,7 @@ Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.p
 * [Baselines for Chest X-Ray Report Generation](https://ml4health.github.io/2019/pdf/175_ml4h_preprint.pdf) - Boag W et al, `arXiv preprint 2019`.
 * [Clinically accurate chest X-ray report generation](https://arxiv.org/pdf/1904.02633) - Liu G et al, `arXiv preprint 2019`.
 * [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541) - Zhang Y et al, `arXiv preprint 2019`.
+* [Ontology-Aware Clinical Abstractive Summarization](https://dl.acm.org/doi/pdf/10.1145/3331184.3331319?casa_token=MORMbUIu-0gAAAAA:oYw_5VEzxqmWswOmCwZqYUSCP5uk7CAacfEed7986Te76sgF7Y8ueQ8pgQuB5qW586ayMzuFi5k) - MacAvaney et al., `SIGIR 2019`
 
 ### 2020
 * [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
@@ -65,6 +67,7 @@ Classification and Reporting in Chest X-rays](https://arxiv.org/pdf/1801.04334.p
 * [BDKG at MEDIQA 2021: System Report for the Radiology Report Summarization Task](https://aclanthology.org/2021.bionlp-1.11.pdf) - Dai et al., `BioNLP 2021`
 * [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/pdf/2105.11333.pdf) - Moon et al., `CVPR 2021`
 * [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://aclanthology.org/2021.acl-long.387.pdf) - Yang et al., `ACL 2021`
+* [BDKG at MEDIQA 2021: System Report for the Radiology Report Summarization Task](https://aclanthology.org/2021.bionlp-1.11.pdf) - Dai et al., `MEDIQA 2021`
 
 
 
